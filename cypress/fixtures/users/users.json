@@ -1,0 +1,23 @@
+[
+  {
+    "id": 2057564,
+    "name": "Michael Roy Jhon Andrean",
+    "email": "Andrean@gmail.com",
+    "gender": "male",
+    "status": "inactive"
+  },
+  {
+    "id": 2057989,
+    "name": "Michael Andrean",
+    "email": "Andreanhols@gmail.com",
+    "gender": "male",
+    "status": "inactive"
+  },
+  {
+    "id": 2058181,
+    "name": "Richard",
+    "email": "Richard@gmail.com",
+    "gender": "male",
+    "status": "active"
+  }
+]
